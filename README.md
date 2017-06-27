@@ -4,7 +4,7 @@
 
 # Clue
 The main clue of this library is to give a user an ability to write more fluent assertions on a standard .net types (string, bool) and a seq.
-#How to use that?
+# How to use it?
 * Install via nuget
 * `install-package Expecto.FluentAssertions`
 * add open statement
